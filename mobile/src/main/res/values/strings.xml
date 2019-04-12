@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAutoMessageTest</string>
+    <string name="send_to_service">Send to service</string>
+</resources>
